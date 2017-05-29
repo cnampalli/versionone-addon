@@ -1,0 +1,10 @@
+<dashboard script="aaam-setup.js" stylesheet="aaam-setup.css" hideAppBar="true" hideEdit="true" isDashboard="false">
+  <label>versionone application setup</label>
+  <row>
+    <panel>
+      <html>
+        <div id="setup_page_container"/>
+      </html>
+    </panel>
+  </row>
+</dashboard>
